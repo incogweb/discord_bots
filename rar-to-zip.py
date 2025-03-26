@@ -1,3 +1,5 @@
+#desined to make using BlankGrabber servers easier
+
 import discord
 import os
 import patoolib
